@@ -1,0 +1,18 @@
+{
+  "files": {
+    "project1.js": [
+      {
+        "id": "8aff7c4c-1567-42f5-8362-de143c2bfabe",
+        "line": 1,
+        "version": 328,
+        "index": 0
+      },
+      {
+        "id": "035a5c25-c712-43c6-afbc-38f0681425f5",
+        "line": 2,
+        "version": 307,
+        "index": 45
+      }
+    ]
+  }
+}
